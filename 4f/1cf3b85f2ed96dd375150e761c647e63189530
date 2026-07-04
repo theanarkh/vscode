@@ -1,0 +1,139 @@
+src/vs/base/parts/ipc/test/common/ipc.test.ts
+  s_84115ff3e4b23c::t_072bc7e85aabd4 468
+  s_426d90e28d8576::t_c8e8c297de39ed 327
+  h_17c9ddf6b9c898 324,334,337-340,342-343,485
+  s_733c2d96d81cc7::t_1ef79baafcf80a 341
+  s_c8fa308d0ef539::t_a1aaad175314b9 323
+  s_277309423f06f8::t_988087e07c649d 328,331-332,472,475-476,479-481,483
+  s_c01a5e52b97593::t_20ea6e82d3c160 335
+  s_a5fbce5c9f8526::t_10f24a34f4f2c1 467
+  s_e02e82d0d4087c::t_aa831cfa1a18a4 336
+  s_20dde472359dde::t_bba864e619b887 471
+  s_277309423f06f8::t_872e57705202fd 329-330
+  s_277309423f06f8::t_69dba2afb25496 473-474
+  s_277309423f06f8::t_a84705a88b22b5 477-478
+  s_277309423f06f8::t_137b0cbdcce5d3 482
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "4f1cf3b85f2ed96dd375150e761c647e63189530",
+  "prompts": {},
+  "humans": {
+    "h_17c9ddf6b9c898": {
+      "author": "theanarkh <theratliter@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_20dde472359dde": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-d756817c-2e97-4c67-a1f3-d74e939f4958",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_277309423f06f8": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-d75dfe08-8ba8-4dd5-ad4c-c3096a97749e",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_426d90e28d8576": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-682f0429-07e0-4ca6-b280-9c8020485f5c",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_733c2d96d81cc7": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-2ef2fc86-259c-410a-b6f9-a150c4bdbbb3",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_84115ff3e4b23c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-9f224c7c-d7c5-4780-8e68-2ca3de19a65d",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_a5fbce5c9f8526": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-11c14aa1-12d6-4c92-b267-ef682644babf",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_c01a5e52b97593": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-3702f2b2-7078-4b39-8e57-ba0daa4f0bd6",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_c8fa308d0ef539": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-4f056d25-8ed1-470a-973b-26ef5acd20c2",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    },
+    "s_e02e82d0d4087c": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-7e6bb090-6d93-4b21-9163-88991e82782e",
+        "model": "default"
+      },
+      "human_author": "theanarkh <theratliter@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {
+    "s_9dd25940969368": {
+      "tool": "trae",
+      "conversation_id": "6a437e2bd7ea371f61972cdc",
+      "session_id": "6a437e2bd7ea371f61972cdc",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_9dd25940969368::t_27d1925efc8930": {
+      "tool": "trae",
+      "conversation_id": "6a437e2bd7ea371f61972cdc",
+      "session_id": "6a437e2bd7ea371f61972cdc",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_9dd25940969368::t_30f4c3a149e2af": {
+      "tool": "trae",
+      "conversation_id": "6a437e2bd7ea371f61972cdc",
+      "session_id": "6a437e2bd7ea371f61972cdc",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_9dd25940969368::t_9daa7ec7791303": {
+      "tool": "trae",
+      "conversation_id": "6a437e2bd7ea371f61972cdc",
+      "session_id": "6a437e2bd7ea371f61972cdc",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_9dd25940969368::t_aefe7f8f5db4ba": {
+      "tool": "trae",
+      "conversation_id": "6a437e2bd7ea371f61972cdc",
+      "session_id": "6a437e2bd7ea371f61972cdc",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
